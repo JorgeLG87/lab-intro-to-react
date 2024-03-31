@@ -1,0 +1,29 @@
+.contact-card {
+    border: 1px solid black;
+    display: flex;
+    gap: 40px;
+    width: 80%;
+    height: 150px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.contact-card-image {
+    width: 150px;
+    height: 150px;
+}
+
+.h3-title {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 210px;
+}
+
+.p-title {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 235px;
+    font-size: small;
+}
